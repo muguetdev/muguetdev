@@ -30,9 +30,3 @@
 <div align="center">
   <img alt="3d contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
-
-### 🔥 Sequência
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=muguetdev&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</div>
