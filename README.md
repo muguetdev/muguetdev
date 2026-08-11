@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Rafael 👋</h1>
 
-<!--
-**muguetdev/muguetdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor backend · integrações, sistemas distribuídos e performance
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/muguetdev/muguetdev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/muguetdev/muguetdev/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/muguetdev/muguetdev/output/github-snake.svg" />
+  </picture>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### 📊 Estatísticas
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muguetdev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muguetdev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
