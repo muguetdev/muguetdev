@@ -25,9 +25,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### 📊 Estatísticas
+### 📈 Contribuições em 3D
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muguetdev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muguetdev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img alt="3d contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+
+### 🔥 Sequência
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=muguetdev&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</div>
